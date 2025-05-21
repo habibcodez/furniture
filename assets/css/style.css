@@ -661,9 +661,9 @@ input {
     box-shadow: -2px 0 4px var(--shadow) ;
     height: 100%;
     top: 0;
-    right: -100%;
+    right: -200%;
     padding: 3.5rem 2rem;
-    transition: .4s;
+    transition: .5s;
 }
 .login_title-center{
     font-size: var(--h2-font-size);
@@ -727,9 +727,9 @@ input {
     box-shadow: -2px 0 4px var(--shadow) ;
     height: 100%;
     top: 0;
-    right: -100%;
+    right: -200%;
     padding: 3.5rem 2rem;
-    transition: .4s;
+    transition: .5s;
 }
 .cart_title-centre{
     font-size: var(--h2-font-size);
